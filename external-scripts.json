@@ -9,6 +9,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-google-hangouts",
-  "hubot-voting"
+  "hubot-secret-ballot",
+  "hubot-voting",
+  "hubot-google-hangouts"
 ]
